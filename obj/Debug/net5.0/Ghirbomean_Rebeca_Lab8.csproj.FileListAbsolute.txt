@@ -1,0 +1,17 @@
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\Ghirbomean_Rebeca_Lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\Ghirbomean_Rebeca_Lab8.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\Ghirbomean_Rebeca_Lab8.AssemblyInfo.cs
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\Ghirbomean_Rebeca_Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\Ghirbomean_Rebeca_Lab8.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\Ghirbomean_Rebeca_Lab8.RazorAssemblyInfo.cache
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\Ghirbomean_Rebeca_Lab8.RazorAssemblyInfo.cs
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\staticwebassets\Ghirbomean_Rebeca_Lab8.StaticWebAssets.Manifest.cache
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\staticwebassets\Ghirbomean_Rebeca_Lab8.StaticWebAssets.xml
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\scopedcss\bundle\Ghirbomean_Rebeca_Lab8.styles.css
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\Ghirbomean_Rebeca_Lab8.TagHelpers.input.cache
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\Ghirbomean_Rebeca_Lab8.TagHelpers.output.cache
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\Ghirbomean_Rebeca_Lab8.RazorCoreGenerate.cache
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\Ghirbomean_Rebeca_Lab8.dll
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\ref\Ghirbomean_Rebeca_Lab8.dll
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\Ghirbomean_Rebeca_Lab8.pdb
+C:\Users\Home\Desktop\Nagy_Norbert_Lab8-master\obj\Debug\net5.0\Ghirbomean_Rebeca_Lab8.csproj.AssemblyReference.cache

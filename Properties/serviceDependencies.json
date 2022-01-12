@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "type": "mssql",
+      "connectionId": "ConnectionStrings:Ghirbomean_Rebeca_Lab8Context"
+    }
+  }
+}
