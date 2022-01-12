@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\Medii Vizuale\Lab8\20211125135819_InitialCreate.cs" Link="20211125135819_InitialCreate.cs" />
+    <Compile Include="D:\Medii Vizuale\Lab8\20211125144246_BookCategory.cs" Link="20211125144246_BookCategory.cs" />
+    <Compile Include="D:\Medii Vizuale\Lab8\AssignedCategoryData.cs" Link="AssignedCategoryData.cs" />
+    <Compile Include="D:\Medii Vizuale\Lab8\Book.cs" Link="Book.cs" />
+    <Compile Include="D:\Medii Vizuale\Lab8\BookCategoriesPageModel.cs" Link="BookCategoriesPageModel.cs" />
+    <Compile Include="D:\Medii Vizuale\Lab8\BookCategory.cs" Link="BookCategory.cs" />
+    <Compile Include="D:\Medii Vizuale\Lab8\BookData.cs" Link="BookData.cs" />
+    <Compile Include="D:\Medii Vizuale\Lab8\Category.cs" Link="Category.cs" />
+    <Compile Include="D:\Medii Vizuale\Lab8\Ghirbomean_Rebeca_Lab8ContextModelSnapshot.cs" Link="Ghirbomean_Rebeca_Lab8ContextModelSnapshot.cs" />
+    <Compile Include="D:\Medii Vizuale\Lab8\Program.cs" Link="Program.cs" />
+    <Compile Include="D:\Medii Vizuale\Lab8\Publisher.cs" Link="Publisher.cs" />
+    <Compile Include="D:\Medii Vizuale\Lab8\Startup.cs" Link="Startup.cs" />
+    <Compile Include="D:\Medii Vizuale\Lab8\_ViewImports.cshtml" Link="_ViewImports.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="D:\Medii Vizuale\Lab8\appsettings.json" Link="appsettings.json" />
+    <Content Include="D:\Medii Vizuale\Lab8\Index.cshtml" Link="Index.cshtml" />
+    <Content Include="D:\Medii Vizuale\Lab8\_ViewImports.cshtml" Link="_ViewImports.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.12" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="5.0.12">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
+  </ItemGroup>
+
+</Project>
